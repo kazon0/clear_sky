@@ -45,7 +45,7 @@
 
 点击后即可直接下载（适用于 Android）
 
-👉 [**下载 ClearSky APK**](https://raw.githubusercontent.com/kazon0/clearsky/main/release/app-arm64-v8a-release.apk.1)
+👉 [**下载 ClearSky APK**](https://raw.githubusercontent.com/kazon0/clear_sky/main/release/app-arm64-v8a-release.apk)
 
 
 
